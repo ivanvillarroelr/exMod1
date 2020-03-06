@@ -1,5 +1,5 @@
 # exMod1
-Examen Modulo 1 Grupal. 
+Repositorio del examen grupal módulo 1 correspondiente a Java SE 8
 
 Miembros: 
 
